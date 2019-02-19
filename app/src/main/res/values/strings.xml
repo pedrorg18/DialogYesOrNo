@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DialogYesOrNo</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="message">This is the dialog message, click on the following buttons to get a nice Toast</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
 </resources>
